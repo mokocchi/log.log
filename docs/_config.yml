@@ -1,0 +1,15 @@
+title: log.log
+email: jarcidiacono@linti.unlp.edu.ar
+description: >-
+  Bitácora de avances de investigación
+baseurl: "/log.log"
+domain: mokocchi.github.io
+url: "http://mokocchi.github.io/"
+github_username: mokocchi
+paginate: 5
+paginate_path: "/page:num/"
+show_excerpts: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
