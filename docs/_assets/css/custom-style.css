@@ -1,3 +1,53 @@
 h2 {
-  color:red
+  color:navy
+}
+
+#header_wrap {
+  background-color: slategray;
+  width: 100%;
+}
+
+#header_wrap > .inner {
+  margin-inline: auto;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  width: 640px;
+  padding-inline: 50px;
+}
+
+#footer_wrap {
+  background-color: slategray;
+  width: 100%;
+}
+
+#footer_wrap > .inner {
+  margin-inline: auto;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  width: 640px;
+  padding-inline: 50px;
+}
+
+#main_content_wrap {
+  width: 100%;
+}
+
+#main_content_wrap > .inner {
+  background-color: white;
+  width: 640px;
+  margin-inline: auto;
+}
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  background-color: azure;
+}
+
+.img_container {
+  display: flex;
+  justify-content: center;
 }
