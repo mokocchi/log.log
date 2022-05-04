@@ -4,7 +4,9 @@ title: Acerca de
 permalink: /about/
 ---
 
-Soy Jose Arcidiacono, estudiante del Doctorado en Ciencias Informáticas de la Facultad de Informática de la Universidad Nacional de La Plata (UNLP) (Argentina, Provincia de Buenos Aires).
+![Jose Arcidiacono](/log.log/assets/images/about/mayo2022.jpg)
+
+Soy Jose Arcidiacono, estudiante del Doctorado en Ciencias Informáticas de la Facultad de Informática de la Universidad Nacional de La Plata (UNLP) en Argentina, Provincia de Buenos Aires. También estoy haciendo una pasantía en el LINTI en la misma Facultad de Informática.
 
 Mi tema de investigación son las tecnologías SMART, mi objetivo es estandarizarlas y securizarlas de algún modo, dada la variedad de proveedores y los pocos puntos en común entre ellos.
 
